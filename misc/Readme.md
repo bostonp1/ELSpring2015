@@ -1,3 +1,4 @@
-A directory for misellaneous stuff
-Nothing really relevant should be here!
+This file is for extra materials
+I will be showing what work that is done.
+Paul Boston
 
